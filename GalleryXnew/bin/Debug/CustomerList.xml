@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customer>
+    <ThisCustomerID>1</ThisCustomerID>
+    <ThisCustomerName>James</ThisCustomerName>
+    <thisCustomerAddress>Brown</thisCustomerAddress>
+    <ArtistArtwork>
+      <Artwork>
+        <ThisArtworkID>1</ThisArtworkID>
+        <ThisArtworkPrice>15</ThisArtworkPrice>
+        <HoldArtistID>1</HoldArtistID>
+        <ThisArtworkDescription>The sparrow in a tree</ThisArtworkDescription>
+        <TimeaddedtoDisplaynow>2015-05-12T01:27:26.5645488+01:00</TimeaddedtoDisplaynow>
+      </Artwork>
+      <Artwork>
+        <ThisArtworkID>1</ThisArtworkID>
+        <ThisArtworkPrice>156</ThisArtworkPrice>
+        <HoldArtistID>1</HoldArtistID>
+        <ThisArtworkDescription>the ills</ThisArtworkDescription>
+        <TimeaddedtoDisplaynow>2015-05-12T01:27:26.5645488+01:00</TimeaddedtoDisplaynow>
+      </Artwork>
+    </ArtistArtwork>
+  </Customer>
+</ArrayOfCustomer>

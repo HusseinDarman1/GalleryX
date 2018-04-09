@@ -1,0 +1,65 @@
+C:\Users\Hussein\Documents\GalleryXnew\GalleryXnew\bin\Debug\GalleryXnew.exe.config
+C:\Users\Hussein\Documents\GalleryXnew\GalleryXnew\bin\Debug\GalleryXnew.exe
+C:\Users\Hussein\Documents\GalleryXnew\GalleryXnew\bin\Debug\GalleryXnew.pdb
+C:\Users\Hussein\Documents\GalleryXnew\GalleryXnew\obj\Debug\GalleryXnew.csprojResolveAssemblyReference.cache
+C:\Users\Hussein\Documents\GalleryXnew\GalleryXnew\obj\Debug\MainWindow.baml
+C:\Users\Hussein\Documents\GalleryXnew\GalleryXnew\obj\Debug\MainWindow.g.cs
+C:\Users\Hussein\Documents\GalleryXnew\GalleryXnew\obj\Debug\App.g.cs
+C:\Users\Hussein\Documents\GalleryXnew\GalleryXnew\obj\Debug\GalleryXnew_MarkupCompile.cache
+C:\Users\Hussein\Documents\GalleryXnew\GalleryXnew\obj\Debug\GalleryXnew.g.resources
+C:\Users\Hussein\Documents\GalleryXnew\GalleryXnew\obj\Debug\GalleryXnew.Properties.Resources.resources
+C:\Users\Hussein\Documents\GalleryXnew\GalleryXnew\obj\Debug\GalleryXnew.csproj.GenerateResource.Cache
+C:\Users\Hussein\Documents\GalleryXnew\GalleryXnew\obj\Debug\GalleryXnew.exe
+C:\Users\Hussein\Documents\GalleryXnew\GalleryXnew\obj\Debug\GalleryXnew.pdb
+C:\Users\Hussein\Documents\GalleryXnew (3)\GalleryXnew\GalleryXnew\bin\Debug\GalleryXnew.exe.config
+C:\Users\Hussein\Documents\GalleryXnew (3)\GalleryXnew\GalleryXnew\obj\Debug\GalleryXnew.exe
+C:\Users\Hussein\Documents\GalleryXnew (3)\GalleryXnew\GalleryXnew\obj\Debug\GalleryXnew.pdb
+C:\Users\Hussein\Documents\GalleryXnew (3)\GalleryXnew\GalleryXnew\bin\Debug\GalleryXnew.exe
+C:\Users\Hussein\Documents\GalleryXnew (3)\GalleryXnew\GalleryXnew\bin\Debug\GalleryXnew.pdb
+C:\Users\Hussein\Documents\GalleryXnew (3)\GalleryXnew\GalleryXnew\obj\Debug\GalleryXnew.csprojResolveAssemblyReference.cache
+C:\Users\Hussein\Documents\GalleryXnew (3)\GalleryXnew\GalleryXnew\obj\Debug\MainWindow.baml
+C:\Users\Hussein\Documents\GalleryXnew (3)\GalleryXnew\GalleryXnew\obj\Debug\MainWindow.g.cs
+C:\Users\Hussein\Documents\GalleryXnew (3)\GalleryXnew\GalleryXnew\obj\Debug\App.g.cs
+C:\Users\Hussein\Documents\GalleryXnew (3)\GalleryXnew\GalleryXnew\obj\Debug\GalleryXnew_MarkupCompile.cache
+C:\Users\Hussein\Documents\GalleryXnew (3)\GalleryXnew\GalleryXnew\obj\Debug\GalleryXnew.g.resources
+C:\Users\Hussein\Documents\GalleryXnew (3)\GalleryXnew\GalleryXnew\obj\Debug\GalleryXnew.Properties.Resources.resources
+C:\Users\Hussein\Documents\GalleryXnew (3)\GalleryXnew\GalleryXnew\obj\Debug\GalleryXnew.csproj.GenerateResource.Cache
+E:\GalleryXnew (4)\GalleryXnew (3)\GalleryXnew\GalleryXnew\bin\Debug\GalleryXnew.exe.config
+E:\GalleryXnew (4)\GalleryXnew (3)\GalleryXnew\GalleryXnew\obj\Debug\GalleryXnew.exe
+E:\GalleryXnew (4)\GalleryXnew (3)\GalleryXnew\GalleryXnew\obj\Debug\GalleryXnew.pdb
+D:\GalleryXnew (4)\GalleryXnew (3)\GalleryXnew\GalleryXnew\bin\Debug\GalleryXnew.exe.config
+D:\GalleryXnew (4)\GalleryXnew (3)\GalleryXnew\GalleryXnew\obj\Debug\GalleryXnew.exe
+D:\GalleryXnew (4)\GalleryXnew (3)\GalleryXnew\GalleryXnew\obj\Debug\GalleryXnew.pdb
+D:\GalleryXnew (4)\GalleryXnew (3)\GalleryXnew\GalleryXnew\bin\Debug\GalleryXnew.exe
+D:\GalleryXnew (4)\GalleryXnew (3)\GalleryXnew\GalleryXnew\bin\Debug\GalleryXnew.pdb
+D:\GalleryXnew (4)\GalleryXnew (3)\GalleryXnew\GalleryXnew\obj\Debug\GalleryXnew.csprojResolveAssemblyReference.cache
+D:\GalleryXnew (4)\GalleryXnew (3)\GalleryXnew\GalleryXnew\obj\Debug\MainWindow.baml
+D:\GalleryXnew (4)\GalleryXnew (3)\GalleryXnew\GalleryXnew\obj\Debug\MainWindow.g.cs
+D:\GalleryXnew (4)\GalleryXnew (3)\GalleryXnew\GalleryXnew\obj\Debug\App.g.cs
+D:\GalleryXnew (4)\GalleryXnew (3)\GalleryXnew\GalleryXnew\obj\Debug\GalleryXnew_MarkupCompile.cache
+D:\GalleryXnew (4)\GalleryXnew (3)\GalleryXnew\GalleryXnew\obj\Debug\GalleryXnew.g.resources
+D:\GalleryXnew (4)\GalleryXnew (3)\GalleryXnew\GalleryXnew\obj\Debug\GalleryXnew.Properties.Resources.resources
+D:\GalleryXnew (4)\GalleryXnew (3)\GalleryXnew\GalleryXnew\obj\Debug\GalleryXnew.csproj.GenerateResource.Cache
+E:\GalleryXnew (4)\GalleryXnew (3)\GalleryXnew\GalleryXnew\bin\Debug\GalleryXnew.exe
+E:\GalleryXnew (4)\GalleryXnew (3)\GalleryXnew\GalleryXnew\bin\Debug\GalleryXnew.pdb
+E:\GalleryXnew (4)\GalleryXnew (3)\GalleryXnew\GalleryXnew\obj\Debug\GalleryXnew.csprojResolveAssemblyReference.cache
+E:\GalleryXnew (4)\GalleryXnew (3)\GalleryXnew\GalleryXnew\obj\Debug\MainWindow.baml
+E:\GalleryXnew (4)\GalleryXnew (3)\GalleryXnew\GalleryXnew\obj\Debug\MainWindow.g.cs
+E:\GalleryXnew (4)\GalleryXnew (3)\GalleryXnew\GalleryXnew\obj\Debug\App.g.cs
+E:\GalleryXnew (4)\GalleryXnew (3)\GalleryXnew\GalleryXnew\obj\Debug\GalleryXnew_MarkupCompile.cache
+E:\GalleryXnew (4)\GalleryXnew (3)\GalleryXnew\GalleryXnew\obj\Debug\GalleryXnew.g.resources
+E:\GalleryXnew (4)\GalleryXnew (3)\GalleryXnew\GalleryXnew\obj\Debug\GalleryXnew.Properties.Resources.resources
+E:\GalleryXnew (4)\GalleryXnew (3)\GalleryXnew\GalleryXnew\obj\Debug\GalleryXnew.csproj.GenerateResource.Cache
+C:\Users\Moham\Music\desktop\Desktop\GalleryXnew\GalleryXnew\bin\Debug\GalleryXnew.exe.config
+C:\Users\Moham\Music\desktop\Desktop\GalleryXnew\GalleryXnew\obj\Debug\GalleryXnew.exe
+C:\Users\Moham\Music\desktop\Desktop\GalleryXnew\GalleryXnew\obj\Debug\GalleryXnew.pdb
+C:\Users\Moham\Music\desktop\Desktop\GalleryXnew\GalleryXnew\bin\Debug\GalleryXnew.exe
+C:\Users\Moham\Music\desktop\Desktop\GalleryXnew\GalleryXnew\bin\Debug\GalleryXnew.pdb
+C:\Users\Moham\Music\desktop\Desktop\GalleryXnew\GalleryXnew\obj\Debug\GalleryXnew.csprojResolveAssemblyReference.cache
+C:\Users\Moham\Music\desktop\Desktop\GalleryXnew\GalleryXnew\obj\Debug\MainWindow.baml
+C:\Users\Moham\Music\desktop\Desktop\GalleryXnew\GalleryXnew\obj\Debug\MainWindow.g.cs
+C:\Users\Moham\Music\desktop\Desktop\GalleryXnew\GalleryXnew\obj\Debug\App.g.cs
+C:\Users\Moham\Music\desktop\Desktop\GalleryXnew\GalleryXnew\obj\Debug\GalleryXnew_MarkupCompile.cache
+C:\Users\Moham\Music\desktop\Desktop\GalleryXnew\GalleryXnew\obj\Debug\GalleryXnew.g.resources
+C:\Users\Moham\Music\desktop\Desktop\GalleryXnew\GalleryXnew\obj\Debug\GalleryXnew.Properties.Resources.resources
+C:\Users\Moham\Music\desktop\Desktop\GalleryXnew\GalleryXnew\obj\Debug\GalleryXnew.csproj.GenerateResource.Cache

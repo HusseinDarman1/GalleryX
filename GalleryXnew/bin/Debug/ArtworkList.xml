@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfArtwork xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Artwork>
+    <ThisArtworkID>1</ThisArtworkID>
+    <ThisArtworkPrice>15</ThisArtworkPrice>
+    <HoldArtistID>1</HoldArtistID>
+    <ThisArtworkDescription>The sparrow in a tree</ThisArtworkDescription>
+    <TimeaddedtoDisplaynow>0001-01-01T00:00:00</TimeaddedtoDisplaynow>
+  </Artwork>
+  <Artwork>
+    <ThisArtworkID>1</ThisArtworkID>
+    <ThisArtworkPrice>156</ThisArtworkPrice>
+    <HoldArtistID>1</HoldArtistID>
+    <ThisArtworkDescription>the ills</ThisArtworkDescription>
+    <TimeaddedtoDisplaynow>0001-01-01T00:00:00</TimeaddedtoDisplaynow>
+  </Artwork>
+  <Artwork>
+    <ThisArtworkID>2</ThisArtworkID>
+    <ThisArtworkPrice>1560</ThisArtworkPrice>
+    <HoldArtistID>1</HoldArtistID>
+    <ThisArtworkDescription>Apple tree</ThisArtworkDescription>
+    <TimeaddedtoDisplaynow>0001-01-01T00:00:00</TimeaddedtoDisplaynow>
+  </Artwork>
+  <Artwork>
+    <ThisArtworkID>3</ThisArtworkID>
+    <ThisArtworkPrice>2</ThisArtworkPrice>
+    <HoldArtistID>1</HoldArtistID>
+    <ThisArtworkDescription>eeee</ThisArtworkDescription>
+    <TimeaddedtoDisplaynow>0001-01-01T00:00:00</TimeaddedtoDisplaynow>
+  </Artwork>
+</ArrayOfArtwork>

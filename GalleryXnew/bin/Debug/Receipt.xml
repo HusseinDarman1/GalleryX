@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSalesRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SalesRecord>
+    <customerID>1</customerID>
+    <ArtworkID>1</ArtworkID>
+    <artworkSold>sold Artwork</artworkSold>
+    <TimeofSale>0001-01-01T00:00:00</TimeofSale>
+  </SalesRecord>
+</ArrayOfSalesRecord>
